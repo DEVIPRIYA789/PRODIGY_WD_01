@@ -38,6 +38,8 @@ nav ul li a {
 /* Hover effect on menu items */
 nav ul li a:hover {
     color: #00b3ff;
+    text-decoration:none;
+
 }
 
 /* Change navbar background color on scroll */
